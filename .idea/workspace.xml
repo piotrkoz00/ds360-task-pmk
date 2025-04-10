@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4db4219a-222f-4f94-920b-44288393fade" name="Changes" comment="Pierwsza wersja notatnika z analizą wybranych danych. Zawiera podstawową analizę danych, w tym usuwanie danych spoza ustalonego zakresu czasowego oraz uzupełnianie pustych wartości w kolumnie z liczbą pasażerów wartościami odpowiadającymi danym długościom tras.&#10;W notatniku uwzględnione są skrypty zawierające funkcje do rysowania odpowiednich wykresów oraz do uzupełniania wartości pustych." />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="test" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "piotrkoz00"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/piotrkoz00/ds360-task-pmk.git",
+    "accountId": "3f1aad7b-3013-4e10-9da6-fd40dff55651"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2vXbYsb84o1fvAlXnfjGE2SM2fY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ratch/Desktop/ds360-task-pmk/ds360-task-pmk"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ratch\Desktop\ds360-task-pmk\ds360-task-pmk" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-54d380b879e2-1e58bffe31b7-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-242.20224.354" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Pierwsza wersja notatnika z analizą wybranych danych. Zawiera podstawową analizę danych, w tym usuwanie danych spoza ustalonego zakresu czasowego oraz uzupełnianie pustych wartości w kolumnie z liczbą pasażerów wartościami odpowiadającymi danym długościom tras.&#10;W notatniku uwzględnione są skrypty zawierające funkcje do rysowania odpowiednich wykresów oraz do uzupełniania wartości pustych." />
+    <option name="LAST_COMMIT_MESSAGE" value="Pierwsza wersja notatnika z analizą wybranych danych. Zawiera podstawową analizę danych, w tym usuwanie danych spoza ustalonego zakresu czasowego oraz uzupełnianie pustych wartości w kolumnie z liczbą pasażerów wartościami odpowiadającymi danym długościom tras.&#10;W notatniku uwzględnione są skrypty zawierające funkcje do rysowania odpowiednich wykresów oraz do uzupełniania wartości pustych." />
+  </component>
+</project>
