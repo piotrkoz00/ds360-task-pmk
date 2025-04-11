@@ -22,3 +22,4 @@ def corr_heatmap(corr_matrix, cmap='inferno', annot=True):
     sns.heatmap(corr_matrix, cmap=cmap, annot=annot, fmt=".2f")
     plt.show()
 
+
