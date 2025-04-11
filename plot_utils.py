@@ -19,7 +19,6 @@ def barplot(df, x, y, title, log_y = False):
     plt.show()
 
 def corr_heatmap(corr_matrix, cmap='inferno', annot=True):
-    sns.heatmap(corr_matrix, cmap=cmap, annot=annot)
-    plt.title()
+    sns.heatmap(corr_matrix, cmap=cmap, annot=annot, fmt=".2f")
     plt.show()
 
