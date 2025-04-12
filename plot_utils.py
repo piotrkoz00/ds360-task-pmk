@@ -22,4 +22,13 @@ def corr_heatmap(corr_matrix, cmap='inferno', annot=True):
     sns.heatmap(corr_matrix, cmap=cmap, annot=annot, fmt=".2f")
     plt.show()
 
+def lineplot(data, x, y, title, xlabel, ylabel, marker='o'):
+    sns.lineplot(data=data, x=x, y=y, marker=marker)
+    plt.title(title)
+    plt.xlabel(xlabel)
+    plt.ylabel(ylabel)
+    plt.xticks(rotation=45)
+    plt.grid(True)
+    plt.tight_layout()
+    plt.show()
 
